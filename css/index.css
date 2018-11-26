@@ -1,0 +1,9 @@
+#map_canvas {
+    min-height: 60px;
+    min-width: 60px;
+}
+
+.highlight {
+    background-color: grey;
+}
+
